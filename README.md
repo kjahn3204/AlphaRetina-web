@@ -1,13 +1,5 @@
 
-<p align='center'>
-Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
-</p>
 
-<br>
-
-<p align='center'>
-<a href="https://vital.josepvidal.dev">Live Demo</a>
-</p>
 
 <br>
 
